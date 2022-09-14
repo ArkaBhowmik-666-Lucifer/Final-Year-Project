@@ -13,3 +13,37 @@
 
 # BUILT WITH 🛠️
 <img src="/Python.png" alt="Python"/><img src="/GitHub.png" alt="GitHub"/><img src="/CSS.png" alt="CSS"/><img src="/HTML.png" alt="HTML"/><img src="/Heroku.png" alt="Heroku"/>
+
+# COMPONENTS USED TO MAKE THE IoT MODULE 🛠️
+#### *o ESP 32 Node MCU*
+#### *o Rainfall Sensor*
+#### *o DHT11 Temperature and Humidity Sensor*
+#### *o BreadBoard*
+#### *o Jumper Wire*
+#### *o Soil-Moisture-Water Sensor*
+
+# HOW TO USE 💻
+#### Crop Recommendation system ==> Plant the IoT Device in the Crop Field, the device will connect the data from the soil and atmosphere like the pH level of the soil, Rainfall, Humidity of the Region and Temperature of the soil. This data will be saved in the Firebase and this firebase is connected to Android App which sends these data to the user. Then when the User clicks on the predict button it displays the crop to be grown using the Machine Learning model developed by us.
+
+# SUGGESTED CROPS
+#### 'Rice', 'Maize', 'Banana', 'Jute', 'Pulses', 'Mango', 'Papaya', 'Tea', 'Aleovera', 'Arecanut', 'Ashwagandha', 'Rose', 'Blackgram',   'Chickpea', 'Coconut', 'Coffee', 'Cotton', 'Grapes', 'Kidneybeans','Mothbeans', 'Mungbeans', 'Muskmelon', 'Orange', 'Piegonpeas', 'Pomegranate', 'Watermelon', 'Apple', 'Cabbagge', 'Cauliflower','Green Chillies', 'Carrot', 'Ginger', 'Garlic', 'Onion', 'Brinjal','Button Mushrooms', 'Potato', 'Capsicum', 'Tomato',"Lady's Finger", 'DragonFruit', 'Olive', 'Marigold', 'Beetroot','Lettuce', 'Corn', 'Green Peas', 'Cucumber', 'Guava', 'Turmeric',  'Rajma', 'Pumpkin', 'Litchi', 'Broccoli', 'Spinach', 'Groundnut','Jackfruit', 'Radish', 'Chinese Cabbage', 'Drumstick', 'Soybean','Sweet Potato', 'Poppy Seeds', 'Coriander', 'Walnuts', 'Cashewnuts', 'French Beans', 'Sugarcane', 'Bajra', 'Mustard'
+
+# FURTHER IMPROVEMENTS 📈
+#### This was our first big project so there are lot of things to improve upon
+
+#### *Frontend can be made better*😢
+#### *More data can be collected manually via web scrapping to make the system more accurate*🧐
+#### *More features like Disease detection and Fertilizer Prediction can be included.*
+
+# CONTACT 📞
+#### If you have any doubt or want to contribute feel free to email us or hit us on LinkedIn
+       
+     
+       
+       
+       
+      
+       
+    
+       
+       
