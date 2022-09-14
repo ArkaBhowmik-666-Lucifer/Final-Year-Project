@@ -13,3 +13,7 @@
 
 # BUILT WITH 🛠️
 <img src="/Python.png" alt="Python"/>
+<img src="/GitHub.png" alt="GitHub"/>
+<img src="/CSS.png" alt="CSS"/>
+<img src="/HTML.png" alt="HTML"/>
+<img src="/Heroku.png" alt="Heroku"/>
