@@ -35,6 +35,9 @@
 #### *More data can be collected manually via web scrapping to make the system more accurate*🧐
 #### *More features like Disease detection and Fertilizer Prediction can be included.*
 
+# PICTURES OF OUR APP
+<img src="/Picture1.jpg" alt="Pic1"/><img src="/Picture2.jpg" alt="Pic2"/><img src="/Picture3.jpg" alt="Pic3"/><img src="/Picture4.jpg" alt="Pic4"/><img src="/Picture5.jpg" alt="Pic5"/><img src="/Picture6.jpg" alt="Pic6"/><img src="/Picture7.jpg" alt="Pic7"/>
+
 # CONTACT 📞
 #### If you have any doubt or want to contribute feel free to email us or hit us on LinkedIn
        
