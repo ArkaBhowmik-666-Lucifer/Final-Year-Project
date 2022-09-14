@@ -39,7 +39,8 @@
 <img src="/Picture1.jpg" alt="Pic1"/><img src="/Picture2.jpg" alt="Pic2"/><img src="/Picture3.jpg" alt="Pic3"/><img src="/Picture4.jpg" alt="Pic4"/><img src="/Picture5.jpg" alt="Pic5"/><img src="/Picture6.jpg" alt="Pic6"/><img src="/Picture7.jpg" alt="Pic7"/>
 
 # CONTACT 📞
-#### If you have any doubt or want to contribute feel free to email us or hit us on [LinkedIn](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
+#### If you have any doubt or want to contribute feel free to email us or hit us on LinkedIn [Arka Bhowmik](https://www.linkedin.com/in/arka-bhowmik-a721a619a/)
+[Jit Saha](https://www.linkedin.com/in/jit-saha-556737173/)[Srija Talukdar](https://www.linkedin.com/in/srija-talukdar-8608261b0/)[Shayari Mondal](https://www.linkedin.com/in/shayari-mondal-a088481b6/)[Shakyajyoti Pyne](https://www.linkedin.com/in/shakyajyoti-pyne-671a641a8/)
        
      
        
