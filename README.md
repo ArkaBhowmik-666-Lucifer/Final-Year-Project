@@ -11,3 +11,5 @@
 
 #### *o In this project, we have developed an Android App in which the Crop recommendation is displayed to the farmers based on the inputs from the IoT device. Along with this we also have kept the facility of Push Message which is triggered by using the Bluetooth of the IoT for those normal handsets.*
 
+# BUILT WITH 🛠️
+<img alt="Python" src="">
