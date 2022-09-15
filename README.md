@@ -25,7 +25,7 @@
 # HOW TO USE 💻
 #### Crop Recommendation system ==> Plant the IoT Device in the Crop Field, the device will connect the data from the soil and atmosphere like the pH level of the soil, Rainfall, Humidity of the Region and Temperature of the soil. This data will be saved in the Firebase and this firebase is connected to Android App which sends these data to the user. Then when the User clicks on the predict button it displays the crop to be grown using the Machine Learning model developed by us.
 
-# SUGGESTED CROPS
+# SUGGESTED CROPS🌿🌿🌿🌿
 #### 'Rice', 'Maize', 'Banana', 'Jute', 'Pulses', 'Mango', 'Papaya', 'Tea', 'Aleovera', 'Arecanut', 'Ashwagandha', 'Rose', 'Blackgram',   'Chickpea', 'Coconut', 'Coffee', 'Cotton', 'Grapes', 'Kidneybeans','Mothbeans', 'Mungbeans', 'Muskmelon', 'Orange', 'Piegonpeas', 'Pomegranate', 'Watermelon', 'Apple', 'Cabbagge', 'Cauliflower','Green Chillies', 'Carrot', 'Ginger', 'Garlic', 'Onion', 'Brinjal','Button Mushrooms', 'Potato', 'Capsicum', 'Tomato',"Lady's Finger", 'DragonFruit', 'Olive', 'Marigold', 'Beetroot','Lettuce', 'Corn', 'Green Peas', 'Cucumber', 'Guava', 'Turmeric',  'Rajma', 'Pumpkin', 'Litchi', 'Broccoli', 'Spinach', 'Groundnut','Jackfruit', 'Radish', 'Chinese Cabbage', 'Drumstick', 'Soybean','Sweet Potato', 'Poppy Seeds', 'Coriander', 'Walnuts', 'Cashewnuts', 'French Beans', 'Sugarcane', 'Bajra', 'Mustard'
 
 # FURTHER IMPROVEMENTS 📈
