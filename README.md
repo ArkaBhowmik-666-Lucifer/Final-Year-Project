@@ -12,7 +12,7 @@
 #### *o In this project, we have developed an Android App in which the Crop recommendation is displayed to the farmers based on the inputs from the IoT device. Along with this we also have kept the facility of Push Message which is triggered by using the Bluetooth of the IoT for those normal handsets.*
 
 # BUILT WITH 🛠️
-<img src="/Python.png" alt="Python"/><img src="/GitHub.png" alt="GitHub"/><img src="/CSS.png" alt="CSS"/><img src="/HTML.png" alt="HTML"/><img src="/Heroku.png" alt="Heroku"/>
+<img src="/Python.png" alt="Python"/><img src="/GitHub.png" alt="GitHub"/><img src="/CSS.png" alt="CSS"/><img src="/HTML.png" alt="HTML"/><img src="/Heroku.png" alt="Heroku"/><img src="/Android.png" alt="Android"/><img src="/IoT.png" alt="IoT"/>
 
 # COMPONENTS USED TO MAKE THE IoT MODULE 🛠️
 #### *o ESP 32 Node MCU*
