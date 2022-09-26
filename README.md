@@ -38,10 +38,10 @@
 # PROJECT PRESENTATION
 #### Click on this provided link to check out our Presentation [Crop Yield Prediction using Machine Learning and IoT](https://mega.nz/file/pV03HIwZ#BVN2n-Gqwb3ZdvToVYXeJKaxy9ejYe98RxVQQRDNSkk)
 
-# IEEE WINNER CERIFICATE FOR PAPER PRESENTATION
+# IEEE WINNER CERTIFICATE FOR PAPER PRESENTATION
 <img src="/IEEE certificate.jpg" alt="IEEE Certificate"/>
 
-# AUTHOR CERIFICATE FOR PAPER PRESENTATION
+# AUTHOR CERTIFICATE FOR PAPER PRESENTATION
 <img src="/Author_certificate.jpg" alt="Author Certificate"/>
 
 # PICTURES OF OUR APP
